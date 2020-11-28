@@ -1,3 +1,13 @@
+#' Funkcja oblicza potege o wykladniku calkowitym
+#'
+#' @param x double
+#' @param y double
+#'
+#' @return double
+#' @export
+#'
+#' @example obl_potege(2, 4)
+
 obl_potege <- function(x, y) {
   wynik = 1
   if (y >= 0) {

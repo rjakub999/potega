@@ -1,5 +1,4 @@
 library(devtools)
-library(tidyverse)
 use_git()
 use_r("obl_funkcje")
 
