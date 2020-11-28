@@ -1,6 +1,6 @@
 library(devtools)
 use_git()
-use_r("obl_funkcje")
+use_r("obl_potege")
 
 load_all()
 
