@@ -6,8 +6,7 @@
 #' @return double
 #' @export
 #'
-#' @example obl_potege(2, 4)
-
+#' @examples obl_potege(2, 4)
 obl_potege <- function(x, y) {
   wynik = 1
   if (y >= 0) {
