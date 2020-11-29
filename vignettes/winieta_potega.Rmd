@@ -18,4 +18,8 @@ knitr::opts_chunk$set(
 library(potega)
 ```
 
-To jest moja pierwsza winieta.
+## Opis dzialania
+Pakiet testowy obliczajacy potegi
+
+## Opis funkcji pakietu
+Funkcja **obl_potege** oblicza potege o wykladniku calkowitym
